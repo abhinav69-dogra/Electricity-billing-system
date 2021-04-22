@@ -18,7 +18,7 @@ public class CalculateBill extends JFrame implements ActionListener{
         
         p = new JPanel();
         p.setLayout(null);
-        p.setBackground(new Color(173, 216, 230));
+        p.setBackground(new Color(173, 216, 240));
         
         l1 = new JLabel("Calculate Electricity Bill");
         l1.setBounds(30, 10, 400, 30);
